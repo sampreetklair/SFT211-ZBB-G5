@@ -15,3 +15,5 @@ The group member are as follows:
 
 ### Robin - MS5: Does the project compile? I don't see any solution or project file in the repo (whether it is visual studio, xcode, cmake or make file). Is the application running as expected? I don't see any user prompt. How does the integration test code get triggered?
 
+### Robin - MS6: Same issue here. Does the project compile? I don't see any solution or project file in the repo (whether it is visual studio, xcode, cmake or make file). Is the application running as expected? I don't see any user prompt. How do you conduct acceptance test?
+
